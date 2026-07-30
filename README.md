@@ -49,20 +49,8 @@ Currently, I’m exploring Artificial Intelligence and continuously learning how
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,canva" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,canva,notion" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true"/>
-
-</div>
 
 ---
 
