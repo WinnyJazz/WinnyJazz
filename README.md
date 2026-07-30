@@ -2,17 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffccf2&text=Hi!%20I'm%20Jessica%20Winola&fontColor=C75C7C&fontSize=48&animation=fadeIn&desc=Computer%20Science%20Student%20|%20Frontend%20Developer%20|%20UI/UX%20Enthusiast&descAlign=50&descAlignY=68&descSize=20" width="100%" />
 
-# 🌸 Welcome to my GitHub!
+# 🌸 Welcome to my GitHub ˚˖❀⊹˖໒꒱₊⊹
 
-I'm **Jessica Winola**, a Computer Science student who enjoys creating
-beautiful, functional, and user-friendly digital experiences.
+I'm **Jessica Winola**, a 5th-semester Computer Science student passionate about creating meaningful digital experiences. I enjoy bringing ideas to life through interactive web applications, exploring new technologies, and blending creativity with technology.
 
-I love turning ideas into interactive web applications while continuously
-learning new technologies and improving my design skills.
+As someone with diverse interests across different fields, I love discovering new perspectives and finding ways to transform them into innovative technological solutions. My goal is to connect creativity, curiosity, and technology to create something that can inspire others.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=F7A8B8&style=flat-square"/>
-</p>
+Currently, I’m exploring Artificial Intelligence and continuously learning how technology can empower people to create more, not just consume.˚₊‧꒰ა ✦ ໒꒱ ‧₊˚
+
 
 </div>
 
@@ -25,7 +22,7 @@ learning new technologies and improving my design skills.
 - 🎨 UI/UX Enthusiast
 - 🌱 Currently learning React, Next.js & TypeScript
 - ✨ Passionate about creating aesthetic and intuitive interfaces
-- ☕ I believe good design is just as important as good code
+- 💻 Love to explore many topics and implements to tech
 
 ---
 
