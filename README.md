@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffb6c1&text=Hi!%20I'm%20Jessica%20Winola&fontColor=C75C7C&fontSize=48&animation=fadeIn&desc=Computer%20Science%20Student%20|%20Frontend%20Developer%20|%20UI/UX%20Enthusiast&descAlign=50&descAlignY=68&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffccf2&text=Hi!%20I'm%20Jessica%20Winola&fontColor=C75C7C&fontSize=48&animation=fadeIn&desc=Computer%20Science%20Student%20|%20Frontend%20Developer%20|%20UI/UX%20Enthusiast&descAlign=50&descAlignY=68&descSize=20" width="100%" />
 
 # 🌸 Welcome to my GitHub!
 
@@ -116,4 +116,4 @@ learning new technologies and improving my design skills.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=ffccf2"/>
