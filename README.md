@@ -69,16 +69,6 @@ learning new technologies and improving my design skills.
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose-pine&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌸 Currently Working On
 
 - 🎀 Personal Portfolio
@@ -92,16 +82,16 @@ learning new technologies and improving my design skills.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/jessica-winola-07073b356/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jewinn2244@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/jazywinn_/">
+  <img src="https://cdn.simpleicons.org/instagram/C75C7C" height="48" alt="Instagram"/>
 </a>
 
 </p>
