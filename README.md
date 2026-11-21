@@ -10,11 +10,14 @@ As someone with diverse interests across different fields, I love discovering ne
 
 Currently, I’m exploring Artificial Intelligence and continuously learning how technology can empower people to create more, not just consume.
 
+<br/>
+
+<p align="center">
+  <img src="./b5a38fa62093a840925ba59dec5f5804.gif" width="280" alt="Welcome GIF" />
+</p>
+
 </div>
 
-<img src="./b5a38fa62093a840925ba59dec5f5804.gif" width="280" alt="Welcome GIF" />
-
-<br/><br/>
 
 ---
 
