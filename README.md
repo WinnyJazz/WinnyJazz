@@ -8,7 +8,7 @@ I'm **Jessica Winola**, a third-year Computer Science student passionate about c
 
 As someone with diverse interests across different fields, I love discovering new perspectives and finding ways to transform them into innovative technological solutions. My goal is to connect creativity, curiosity, and technology to create something that can inspire others.
 
-Currently, I’m exploring Artificial Intelligence and continuously learning how technology can empower people to create more, not just consume.˚₊‧꒰ა ✦ ໒꒱ ‧₊˚
+Currently, I’m exploring Artificial Intelligence and continuously learning how technology can empower people to create more, not just consume.‧₊˚
 
 <br/>
 
