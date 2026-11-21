@@ -4,10 +4,6 @@
 
 # 🌸 Welcome to my GitHub ˚˖❀⊹˖໒꒱₊⊹
 
-<img src="./b5a38fa62093a840925ba59dec5f5804.gif" width="280" alt="Welcome GIF" />
-
-<br/><br/>
-
 I'm **Jessica Winola**, a third-year Computer Science student passionate about creating meaningful digital experiences. I enjoy bringing ideas to life through interactive web applications, exploring new technologies, and blending creativity with technology.
 
 As someone with diverse interests across different fields, I love discovering new perspectives and finding ways to transform them into innovative technological solutions. My goal is to connect creativity, curiosity, and technology to create something that can inspire others.
@@ -15,6 +11,10 @@ As someone with diverse interests across different fields, I love discovering ne
 Currently, I’m exploring Artificial Intelligence and continuously learning how technology can empower people to create more, not just consume.
 
 </div>
+
+<img src="./b5a38fa62093a840925ba59dec5f5804.gif" width="280" alt="Welcome GIF" />
+
+<br/><br/>
 
 ---
 
